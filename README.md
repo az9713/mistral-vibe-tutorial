@@ -7,6 +7,8 @@
 > - [`docs_deepdive/index.md`](docs_deepdive/index.md) — guide entry point
 > - [`docs_deepdive/study-plan.md`](docs_deepdive/study-plan.md) — full 6-phase, ~30–40h lifecycle plan (read → compare → build → extend → synthesize)
 > - [`docs_deepdive/learning-path.md`](docs_deepdive/learning-path.md) — file-by-file tour of `vibe/core/` (~3–4h)
+>
+> Related: [**az9713/claude-dynamic-workflow-mistral-vibe**](https://github.com/az9713/claude-dynamic-workflow-mistral-vibe) — a companion repo showcasing a real multi-agent Claude Code dynamic workflow (a 19-agent "type-escape sweep") run against this codebase, with the script, design writeup, line-by-line explainer, findings report, and a screen recording.
 
 [![PyPI Version](https://img.shields.io/pypi/v/mistral-vibe)](https://pypi.org/project/mistral-vibe)
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/release/python-3120/)
